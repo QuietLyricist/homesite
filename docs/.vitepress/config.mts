@@ -3,7 +3,7 @@ import {defineConfig} from 'vitepress'
 export default defineConfig({
     title: "Johnny's WebSite",
     description: "Records.",
-    base: "/homesite/",
+    base: "/",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         logo: '/favicon.ico',
