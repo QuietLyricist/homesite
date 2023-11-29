@@ -25,4 +25,6 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature E
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature G
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
